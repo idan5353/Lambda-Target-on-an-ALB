@@ -26,3 +26,9 @@ The Application Load Balancer (ALB) supports content-based routing and distribut
 - An AWS account 🌍
 - Basic understanding of AWS Lambda and Application Load Balancers 📚
 - AWS CLI configured on your local machine 🖥️
+ 
+## ScreenShots
+![BeFunky-collage (3)](https://github.com/user-attachments/assets/c02b71f2-5a92-45ea-9e21-a506f853aeff)
+
+![alb3](https://github.com/user-attachments/assets/e380c5c5-fffb-483b-8cd7-c9cb50f58db6)
+
